@@ -195,7 +195,7 @@ number:
   - platform: template
     name: "Max Distance"
     id: distance
-    max_value: 600
+    max_value: 800
     min_value: 0
     unit_of_measurement: "cm"
     step: 1
